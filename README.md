@@ -1,6 +1,8 @@
-# Project Overview
-
 This project involves developing a comprehensive platform that includes user management, property management, booking systems, payment processing, and review systems. The goal is to create a secure, efficient, and user-friendly application that facilitates property rentals and bookings.
+
+# Project Goals
+
+This project aims to provide a secure system for user registration, authentication, and profile management, while also enabling property owners to create, update, and retrieve property listings. It includes a booking system that allows users to reserve properties and manage their bookings, along with integrated payment processing to handle transactions and maintain payment records. Additionally, the platform supports a review system for users to leave ratings and feedback on properties, and ensures efficient data storage and retrieval through database optimization.
 
 ## Tech Stack
 
@@ -47,7 +49,7 @@ This project involves developing a comprehensive platform that includes user man
 - Users have placeholders for payment details.
 - Payment information is visible in the booking details.
 
-## Feature Breakdown
+## Featured Breakdown
 
 ### User Management
 - Implementation of a secure user registration system.
