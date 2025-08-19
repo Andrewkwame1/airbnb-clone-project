@@ -4,7 +4,7 @@ This project involves developing a comprehensive platform that includes user man
 
 This project aims to provide a secure system for user registration, authentication, and profile management, while also enabling property owners to create, update, and retrieve property listings. It includes a booking system that allows users to reserve properties and manage their bookings, along with integrated payment processing to handle transactions and maintain payment records. Additionally, the platform supports a review system for users to leave ratings and feedback on properties, and ensures efficient data storage and retrieval through database optimization.
 
-## Tech Stack
+## Technology Stack
 
 - **Django**: A high-level Python web framework for building the RESTful API.
 - **Django REST Framework**: Tools for creating and managing RESTful APIs.
