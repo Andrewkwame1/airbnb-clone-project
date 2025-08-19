@@ -49,7 +49,7 @@ This project aims to provide a secure system for user registration, authenticati
 - Users have placeholders for payment details.
 - Payment information is visible in the booking details.
 
-## Featured Breakdown
+## Feature Breakdown
 
 ### User Management
 - Implementation of a secure user registration system.
